@@ -3,10 +3,10 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = '✨PWJarvis✨'
-    ST_BN1_URL = 'https://t.me/PWJarvis'
-    ST_BN2_NAME = '⚡️Discussion⚡️'
-    ST_BN2_URL = 'https://t.me/PWJarvis_Discussion'
+    ST_BN1_NAME = '✨Group✨'
+    ST_BN1_URL = 'https://t.me/gramdxmasti'
+    ST_BN2_NAME = '⚡️updates⚡️'
+    ST_BN2_URL = 'https://t.me/kittyxupdates'
     ST_MSG = '''<i>This bot can download your lectures to telegram.</i>'''
     ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
     ST_UNAUTH = '''<i>You Are not authorized user! </i>'''
